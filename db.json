@@ -1,14 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Ali" },
-    { "id": 2, "title": "reza" },
-    { "id": 3, "title": "Dara" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  {"id":1,"type":"حقوقی"},
+{"id":2,"type":"حقیقی"}
 }
